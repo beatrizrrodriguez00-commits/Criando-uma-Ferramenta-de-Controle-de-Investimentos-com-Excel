@@ -1,9 +1,32 @@
 # Criando-uma-Ferramenta-de-Controle-de-Investimentos-com-Excel
 
-Desenvolvi uma ferramenta de controle de investimentos no Excel para simular aportes, acompanhar o patrimônio e estimar dividendos futuros.
+Perguntas de negocio que a ferramenta respode
 
-Utilizei fórmulas como VF e PROCV, além de intervalos nomeados, para realizar os cálculos e organizar as informações. A ferramenta também considera diferentes perfis de investidores, permitindo comparar a distribuição dos investimentos.
+Qual será o patrimônio acumulado ao longo do tempo?
 
-O projeto foi baseado na ferramenta do Expert, com adaptações para facilitar a visualização e a simulação dos resultados.
+Quanto poderei receber de dividendos?
 
+Como os investimentos se distribuem de acordo com o perfil escolhido?
+
+Como os resultados mudam conforme o prazo e os valores investidos?
+
+As respostas são apresentadas nas células de resultados e nas projeções da planilha.
+
+Fórmulas utilizadas
+
+VF: utilizada para calcular o valor futuro dos investimentos, considerando os aportes e as taxas de rendimento.
+
+PROCV: utilizada para buscar informações em uma tabela e auxiliar nos cálculos conforme os dados selecionados.
+
+Intervalos nomeados
+
+Foram utilizados intervalos nomeados para facilitar a identificação e a utilização de células nos cálculos da planilha.
+
+Perfis de investidores
+
+A ferramenta considera diferentes perfis de investidores, com percentuais de distribuição dos aportes de acordo com cada perfil. Os percentuais devem ser baseados na ferramenta de referência do Expert ou nos ajustes realizados durante o projeto.
+
+Alterações realizadas
+
+A ferramenta foi desenvolvida com base no modelo apresentado pelo Expert, com o objetivo de organizar os dados e facilitar a visualização das informações e dos resultados.
 
